@@ -1,0 +1,12 @@
+{
+  "name": "ai-virtual-assistant",
+  "version": "1.0.0",
+  "description": "ai-virtual-assistant",
+  "license": "ISC",
+  "author": "Rekha Thakur",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
